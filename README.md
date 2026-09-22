@@ -4,7 +4,7 @@ AI &amp; IoT-based Traffic Signal Optimization &amp; Regular Car Benchmark Algor
 # AI & IoT Traffic Optimization System for Hanoi
 
 [![Published Paper](https://img.shields.io/badge/Paper-Published_at_IJMSM_2026-brightgreen?style=flat-square&logo=IEEE)](https://ijmsm.org/ijmsm-v3i3p111.html)
-[![DOI](https://img.shields.io/badge/DOI-10.71141%2F30485037%2FV3I3P111-blue?style=flat-square)](https://doi.org/10.71141/30485037/V3I3P111)
+[![DOI](https://img.shields.io/badge/DOI-10.71141%2F30485037%2FV3I3P111-blue?style=flat-square)](10.71141/30485037/V3I3P111)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)](https://www.python.org/)
 
 This repository contains the simulation code and calibration algorithms for the research paper **"Reducing Traffic Congestion in Hanoi, Vietnam Using Artificial Intelligence and Internet of Things"**, published in the *International Journal of Multidisciplinary on Science and Management (IJMSM)*.
